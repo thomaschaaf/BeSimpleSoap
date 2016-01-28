@@ -28,7 +28,7 @@ use Symfony\Component\DependencyInjection\ContainerAwareTrait;
  * @author Christian Kerl <christian-kerl@web.de>
  * @author Francis Besset <francis.besset@gmail.com>
  */
-class SoapWebServiceController extends ContainerAware
+class SoapWebServiceController
 {
     use ContainerAwareTrait;
     
